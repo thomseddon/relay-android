@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Relay</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="select_host">Select a Host</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="connected_clients">Connected Clients:</string>
+    <string name="title_activity_add_host_dialog">AddHostDialogActivity</string>
+
+</resources>
